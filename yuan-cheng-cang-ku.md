@@ -18,8 +18,6 @@ $ ssh-keygen -t rsa -C "18090597801@163.com"
 $ ssh git@github.com
 ```
 
-
-
 # 2.推送本地仓库到github
 
 第一步：在本地仓库下运行
@@ -40,6 +38,12 @@ $ git push -u origin master
 
 ```
 $ git push origin master
+```
+
+# 3.从远程克隆到本地
+
+```
+$ git clone git@github.com:IM-Chris-Li/learngit.git
 ```
 
 
