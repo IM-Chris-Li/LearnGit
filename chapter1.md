@@ -54,7 +54,7 @@ $ git diff readme.txt
 $ git log
 ```
 
-2.6 版本退回
+### 2.6 版本退回
 
 ```
 $ git reset --hard HEAD^
@@ -64,7 +64,7 @@ $ git reset --hard HEAD^
 $ git reset --hard commit_id
 ```
 
-### 2.6 删除文件
+### 2.7 删除文件
 
 第一步：
 
