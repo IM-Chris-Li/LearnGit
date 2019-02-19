@@ -42,6 +42,10 @@ $ git status
 $ git diff readme.txt
 ```
 
+> git diff 比较的是工作区与暂存区的区别
+>
+> git diff --cached 比较的是暂存区与仓库分支的区别
+
 ### 2.5 查看提交日志
 
 查看提交历史，方便版本退回
