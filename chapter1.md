@@ -42,5 +42,23 @@ $ git status
 $ git diff readme.txt
 ```
 
+### 2.5 查看提交日志
+
+查看提交历史，方便版本退回
+
+```
+$ git log
+```
+
+2.6 版本退回
+
+```
+$ git reset --hard HEAD^
+```
+
+```
+$ git reset --hard commit_id
+```
+
 
 
