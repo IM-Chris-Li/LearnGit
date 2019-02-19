@@ -64,5 +64,19 @@ $ git reset --hard HEAD^
 $ git reset --hard commit_id
 ```
 
+### 2.6 删除文件
+
+第一步：
+
+```
+$ git rm test.txt
+```
+
+第二步：
+
+```
+$ git commit -m "write remarks"
+```
+
 
 
