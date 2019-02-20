@@ -28,7 +28,9 @@ $ git remote add origin git@github.com:IM-Chris-Li/learngit.git
 
 第二步：
 
-
+```
+$ git pull origin master
+```
 
 第三步：
 
