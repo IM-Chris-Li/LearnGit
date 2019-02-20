@@ -3,7 +3,7 @@
 ### 1.1 创建SSH Key
 
 ```
-$ ssh-keygen -t rsa -C "18090597801@163.com"
+$ ssh-keygen -t rsa -C "18090597801@163.com" 
 ```
 
 一路回车
