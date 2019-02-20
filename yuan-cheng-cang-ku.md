@@ -28,6 +28,10 @@ $ git remote add origin git@github.com:IM-Chris-Li/learngit.git
 
 第二步：
 
+
+
+第三步：
+
 远程仓库为空时 -u
 
 ```
