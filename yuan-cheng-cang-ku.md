@@ -26,7 +26,7 @@ $ ssh git@github.com
 $ git remote add origin git@github.com:IM-Chris-Li/learngit.git
 ```
 
-第二步：
+第二步：本地库和云库间有差异
 
 ```
 $ git pull origin master
