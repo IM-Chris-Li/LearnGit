@@ -15,7 +15,7 @@ $ ssh-keygen -t rsa -C "18090597801@163.com"
 ### 1.3 建立和github账户的连接
 
 ```
-$ ssh git@github.com
+$ ssh git@github.com 
 ```
 
 # 2.推送本地仓库到github
